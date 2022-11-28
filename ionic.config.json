@@ -1,0 +1,7 @@
+{
+  "name": "asterisk",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
