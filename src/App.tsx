@@ -1,4 +1,4 @@
-import { Redirect, Route, Switch, BrowserRouter as Router} from 'react-router-dom';
+import { Route, BrowserRouter as Router, Routes, BrowserRouter, Link} from 'react-router-dom';
 import {
   IonApp,
   IonIcon,
@@ -33,32 +33,32 @@ import '@ionic/react/css/display.css';
 
 /* Theme variables */
 import './theme/variables.css';
-import LoginScreen from './pages/LoginScreen';
+
+import LogInPage from './pages/LogInPage';
+import SignUp1Page from './pages/SignUp1Page';
+import SignUp2Page from './pages/SignUp2Page';
+import { Button } from 'react-bootstrap';
 
 
 setupIonicReact();
 
 const user=null
-  
+
 ;
 
 const App: React.FC = () => (
   <div className='App'>
-    <Router>
-      {!user?(<LoginScreen/>):(
-        <Switch>
-        <Route exact path="/Tab1">
-          <Tab1/>
-        </Route>
-        <Route exact path="/Tab2">
-          <Tab2/>
-        </Route>
-        </Switch>
+    <>
+    
 
-      )}    
+    <Routes>
+      <Route path="/" element={<Tab1/>}/>
+      <Route path="/login" element={<LogInPage/>}/>
+      <Route path="/register" element={<SignUp1Page/>}/>
+      <Route path="/signUp" element={<SignUp2Page/>}/>
+    </Routes>
+    </>
      
-
-    </Router>
   </div>
 
   

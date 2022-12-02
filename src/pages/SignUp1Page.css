@@ -1,0 +1,167 @@
+.primary-007bff {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-indigo-100);
+}
+.log-in-button {
+  position: absolute;
+  top: calc(50% - 18.5px);
+  left: calc(50% - 36.5px);
+  cursor: pointer;
+}
+.buttondefaultprimary-div {
+  position: absolute;
+  height: calc(100% - 59px);
+  width: calc(100% - 1175px);
+  top: 39px;
+  right: 63px;
+  bottom: 20px;
+  left: 1112px;
+  cursor: pointer;
+}
+.about-us-div1 {
+  left: calc(50% - 261px);
+  cursor: pointer;
+}
+.about-us-div1,
+.asterisk-b1,
+.contact-us-div1,
+.pricing-div1 {
+  position: absolute;
+  top: calc(50% + 0.5px);
+  display: inline-block;
+}
+.asterisk-b1 {
+  left: 76px;
+  cursor: pointer;
+}
+.contact-us-div1,
+.pricing-div1 {
+  left: calc(50% - 16px);
+}
+.contact-us-div1 {
+  left: calc(50% + 202px);
+  cursor: pointer;
+}
+.titlesection-div1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gray-300);
+  box-sizing: border-box;
+  width: 1280px;
+  height: 114px;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-300);
+}
+.services-background-icon1 {
+  position: absolute;
+  top: 78.35px;
+  left: 0;
+  width: 1280px;
+  height: 721.65px;
+}
+.service-card-background1 {
+  position: absolute;
+  top: 191.2px;
+  left: 312px;
+  background-color: var(--color-gray-100);
+  box-shadow: 4px 4px 12px rgba(0, 0, 0, 0.13);
+  width: 656px;
+  height: 534px;
+}
+.inputbase-div {
+  position: absolute;
+  width: calc(100% + 1.5px);
+  right: 0;
+  bottom: 0;
+  left: -1.5px;
+  border-radius: var(--br-sm);
+  background-color: var(--color-white);
+  border: 1px solid #e0e0e0;
+  box-sizing: border-box;
+  height: 40px;
+}
+.fname-div {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  left: 0;
+  line-height: 24px;
+  display: inline-block;
+  height: 24px;
+}
+.firstname-div {
+  position: absolute;
+  top: 298.35px;
+  left: 461.75px;
+  width: 370.5px;
+  height: 69px;
+}
+.inputbase-formgroup4 {
+  width: calc(100% + 1.5px);
+  border: 0;
+  background-color: transparent;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: -1.5px;
+}
+.lastname-div,
+.username-div {
+  position: absolute;
+  top: 404.7px;
+  left: 461.75px;
+  width: 370.5px;
+  height: 69px;
+}
+.username-div {
+  top: 511.04px;
+}
+.next-button {
+  width: 82px;
+  position: absolute;
+  top: 614px;
+  left: 604px;
+}
+.sign-up-b {
+  position: absolute;
+  top: 213px;
+  left: 582px;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  color: var(--color-gray-300);
+}
+.log-in-here {
+  text-decoration: underline;
+}
+.helper-text-a {
+  cursor: pointer;
+  text-decoration: none;
+  position: absolute;
+  bottom: 94.33px;
+  left: 527.25px;
+  font-size: var(--font-size-2xs);
+  line-height: 16px;
+  color: #3939a4;
+  display: inline-block;
+  width: 370.5px;
+  height: 31px;
+}
+.signup1page-div {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 800px;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-gray-400);
+  font-family: var(--font-manrope);
+}

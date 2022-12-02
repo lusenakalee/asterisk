@@ -1,0 +1,586 @@
+*{
+  margin-left: auto;
+  margin-right: auto;
+}
+.landingpage-div{
+  flex-direction: column;
+  height: auto;
+  width: 1280px;
+}
+.path-1517-icon,
+.path-761-icon {
+  position: absolute;
+  height: calc(100% - 305.62px);
+  width: calc(100% - 685.05px);
+  top: 178.33px;
+  right: 64.99px;
+  bottom: 127.29px;
+  left: 620.06px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.path-761-icon {
+  height: calc(100% - 15.88px);
+  width: calc(100% - 389.02px);
+  top: 33.88px;
+  right: -18px;
+  bottom: -18px;
+  left: 407.02px;
+}
+.fullname-formgroup {
+  width: 100%;
+  border: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 52.69px;
+  right: 0;
+  left: 0;
+}
+.message-formgroup {
+  bottom: 63.5px;
+}
+.email-formgroup,
+.group-icon,
+.message-formgroup {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  left: 0;
+}
+.email-formgroup {
+  border: 0;
+  background-color: transparent;
+  top: calc(50% - 94.9px);
+}
+.group-icon {
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.submit {
+  position: absolute;
+  top: calc(50% - 15.06px);
+  left: calc(50% - 44.46px);
+  font-size: 26px;
+  display: inline-block;
+  font-family: var(--font-raleway);
+  color: var(--color-white);
+  text-align: left;
+}
+.button,
+.say-hi-div {
+  position: absolute;
+  left: 0;
+}
+.button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  bottom: 0;
+  width: 112.9px;
+  height: 37.37px;
+}
+.say-hi-div {
+  top: 0;
+  font-size: 20px;
+  font-family: var(--font-manrope);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+}
+.contactform {
+  position: absolute;
+  top: calc(50% - 137.88px);
+  left: calc(50% - 21.61px);
+  width: 270px;
+  height: 423.45px;
+}
+.contact-us-b {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-3xl);
+  display: inline-block;
+}
+.need-any-help {
+  margin: 0;
+}
+.need-any-help-give-us-a-call {
+  position: absolute;
+  top: 85px;
+  left: 0;
+  display: inline-block;
+}
+.address-nairobi-kenya-div {
+  position: absolute;
+  top: 0;
+  right: -1px;
+  display: inline-block;
+}
+.addressicon {
+  position: absolute;
+  height: calc(100% - 17.67px);
+  top: 8.83px;
+  bottom: 8.83px;
+  left: 0;
+  max-height: 100%;
+  width: 33.83px;
+}
+.address-grp-div {
+  position: absolute;
+  top: calc(50% - 154.88px);
+  left: 25.44px;
+  width: 217.56px;
+  height: 66px;
+}
+.phoneicon {
+  position: absolute;
+  height: calc(100% - 18.67px);
+  top: 9.33px;
+  bottom: 9.33px;
+  left: 0;
+  max-height: 100%;
+  width: 27.49px;
+}
+.callgrp-div {
+  position: absolute;
+  top: calc(50% + 18.12px);
+  left: 28.61px;
+  width: 214.39px;
+  height: 66px;
+}
+.emailicon {
+  position: absolute;
+  top: 8.83px;
+  left: 0;
+  width: 30.81px;
+  height: 24.65px;
+}
+.emailgrp-div {
+  position: absolute;
+  top: calc(50% + 191.12px);
+  left: 28.61px;
+  width: 224.39px;
+  height: 66px;
+}
+.contactussection-div {
+  position: absolute;
+  bottom: 387.23px;
+  left: 47.39px;
+  width: 1185.21px;
+  height: 825.77px;
+}
+.sign-up-for-our-newsletter-to,
+.subscribe-to-our-newsletter {
+  position: absolute;
+  top: calc(50% - 124px);
+  left: calc(50% - 214px);
+  display: inline-block;
+}
+.sign-up-for-our-newsletter-to {
+  top: calc(50% - 39px);
+  left: calc(50% - 332px);
+  font-size: var(--font-size-xl);
+}
+.inputgroupbaseoutlineleft-div {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 0 var(--br-xs) var(--br-xs) 0;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+}
+.email-div2 {
+  position: absolute;
+  top: 23.81%;
+  left: 14px;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-manrope);
+  color: var(--color-gray-200);
+  text-align: left;
+  display: inline-block;
+}
+.inputgroupbaseoutlineright-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 100%;
+  width: calc(100% - 305px);
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 305px;
+}
+.inputgroupbasetextleftmedi-formgroup {
+  width: 81.99%;
+  border: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 90.48%;
+  top: 2px;
+  right: 18.01%;
+  bottom: 4.76%;
+  left: 0;
+}
+.inputgrouprightbutton-addon-div {
+  position: absolute;
+  top: calc(50% + 66px);
+  left: calc(50% - 189px);
+  width: 372px;
+  height: 42px;
+}
+.about-us,
+.newslettersection-div {
+  position: absolute;
+  font-size: var(--font-size-3xl);
+}
+.newslettersection-div {
+  top: 2697px;
+  left: 0;
+  background-color: #47e1ae;
+  border: 1px solid var(--color-gray-300);
+  box-sizing: border-box;
+  width: 1280px;
+  height: 524px;
+}
+.about-us {
+  top: 0;
+  left: calc(50% - 102.5px);
+  display: inline-block;
+}
+.learn-how-we-helped-our-severa {
+  position: absolute;
+  top: 68px;
+  left: calc(50% - 325.5px);
+  text-align: center;
+  display: inline-block;
+}
+.features-span {
+  font-weight: 600;
+}
+.features-1-make-a-receive-voi {
+  position: absolute;
+  right: -1px;
+  bottom: 0;
+  display: inline-block;
+}
+.callcenter-icon {
+  position: absolute;
+  bottom: 21px;
+  left: 0;
+  border-radius: 43px;
+  width: 512px;
+  height: 452px;
+  object-fit: cover;
+}
+.aboutussection-div {
+  position: absolute;
+  top: 1910px;
+  left: 79px;
+  width: 1123px;
+  height: 707px;
+  color: var(--color-gray-200);
+}
+.services-background-icon3 {
+  position: absolute;
+  height: calc(100% - 224.2px);
+  width: 100%;
+  top: 224.2px;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.voip-and-normal-calls {
+  position: absolute;
+  top: 38.8px;
+  left: calc(50% - 133.34px);
+  font-weight: 600;
+  display: inline-block;
+}
+.make-a-receive-voip-and-norma {
+  position: absolute;
+  bottom: 21.2px;
+  left: 55.66px;
+  text-align: center;
+  display: inline-block;
+}
+.voipgirl-icon {
+  position: absolute;
+  width: calc(100% - 106px);
+  top: calc(50% - 142.2px);
+  right: 57.34px;
+  left: 48.66px;
+  border-radius: var(--br-lg);
+  max-width: 100%;
+  overflow: hidden;
+  height: 253px;
+  object-fit: cover;
+}
+.card1-div {
+  position: absolute;
+  height: 100%;
+  width: calc(100% - 817.33px);
+  top: 0;
+  right: 817.33px;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-md);
+  background-color: var(--color-white);
+  box-shadow: 4px 4px 12px rgba(0, 0, 0, 0.13);
+}
+.voipgirl-icon1 {
+  position: absolute;
+  width: calc(100% - 106px);
+  top: calc(50% - 126.2px);
+  right: 53px;
+  left: 53px;
+  border-radius: var(--br-lg);
+  max-width: 100%;
+  overflow: hidden;
+  height: 253px;
+  object-fit: cover;
+}
+.card2-div {
+  position: absolute;
+  height: 100%;
+  width: calc(100% - 817.33px);
+  top: 0;
+  right: 408.66px;
+  bottom: 0;
+  left: 408.66px;
+  border-radius: var(--br-md);
+  background-color: var(--color-white);
+  box-shadow: 4px 4px 12px rgba(0, 0, 0, 0.13);
+}
+.voipgirl-icon2 {
+  position: absolute;
+  top: calc(50% - 126.2px);
+  left: 42.34px;
+  border-radius: var(--br-lg);
+  width: 282px;
+  height: 253px;
+  object-fit: cover;
+}
+.card3-div {
+  position: absolute;
+  height: 100%;
+  width: calc(100% - 817.33px);
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 817.33px;
+  border-radius: var(--br-md);
+  background-color: var(--color-white);
+  box-shadow: 4px 4px 12px rgba(0, 0, 0, 0.13);
+}
+.servicesgrid-div {
+  position: absolute;
+  width: calc(100% - 74.67px);
+  right: 37.34px;
+  bottom: 36.65px;
+  left: 37.34px;
+  height: 534px;
+  text-align: left;
+}
+.our-services-b {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 108px);
+  font-size: var(--font-size-4xl);
+  display: inline-block;
+}
+.learn-how-we-helped-our-severa1 {
+  position: absolute;
+  top: 103px;
+  left: calc(50% - 297px);
+  display: inline-block;
+}
+.ourservicessection-div {
+  position: absolute;
+  top: 884px;
+  left: 0;
+  width: 1280px;
+  height: 945.86px;
+  text-align: center;
+  color: var(--color-gray-200);
+}
+.buttondefaultprimary2 {
+  width: calc(100% - 377px);
+  position: absolute;
+  height: calc(100% - 481px);
+  top: 481px;
+  right: 377px;
+  bottom: 0;
+  left: 0;
+  cursor: pointer;
+}
+.a-full-range-of-communication {
+  position: absolute;
+  top: calc(50% + 76px);
+  left: 0;
+  display: inline-block;
+}
+.building-span {
+  color: #47aee1;
+}
+.building-strong-relationships {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: 70px;
+  display: inline-block;
+}
+.headerwordings-div {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 524px;
+}
+.callcenter-icon1 {
+  position: absolute;
+  height: calc(100% - 34px);
+  top: 0;
+  right: 0;
+  bottom: 34px;
+  border-radius: 76px;
+  max-height: 100%;
+  width: 528px;
+  object-fit: cover;
+}
+.headersection-div {
+  position: absolute;
+  top: 230px;
+  left: 76px;
+  width: 1129px;
+  height: 518px;
+  color: var(--color-gray-200);
+}
+.buttondefaultprimary3 {
+  width: calc(100% - 1175px);
+  position: absolute;
+  height: calc(100% - 59px);
+  top: 39px;
+  right: 63px;
+  bottom: 20px;
+  left: 1112px;
+  cursor: pointer;
+}
+.about-us-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  left: calc(50% - 261px);
+  font-size: var(--font-size-2xl);
+  font-family: var(--font-manrope);
+  color: var(--color-gray-300);
+  text-align: left;
+}
+.about-us-button,
+.asterisk-b3,
+.contact-us-div3,
+.pricing-div3 {
+  position: absolute;
+  top: calc(50% + 0.5px);
+  display: inline-block;
+}
+.asterisk-b3 {
+  left: 76px;
+}
+.contact-us-div3,
+.pricing-div3 {
+  left: calc(50% - 16px);
+}
+.contact-us-div3 {
+  left: calc(50% + 202px);
+}
+.titlesection-div3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gray-300);
+  box-sizing: border-box;
+  width: 1280px;
+  height: 114px;
+  font-size: var(--font-size-2xl);
+}
+.asterisk-b4 {
+  top: 49.33px;
+  left: 47px;
+  font-size: var(--font-size-4xl);
+}
+.asterisk-b4,
+.careers-div,
+.designed-by-leroy {
+  position: absolute;
+  display: inline-block;
+}
+.designed-by-leroy {
+  bottom: 27px;
+  left: calc(50% - 114px);
+}
+.careers-div {
+  top: calc(50% - 15px);
+  left: calc(50% - 335px);
+}
+.services-div {
+  left: calc(50% + 71px);
+}
+.portfolio-div,
+.quote-estimate-div,
+.services-div {
+  position: absolute;
+  top: calc(50% - 15px);
+  display: inline-block;
+}
+.portfolio-div {
+  right: -1px;
+}
+.quote-estimate-div {
+  left: calc(50% - 177px);
+}
+.footer-nav-div {
+  position: absolute;
+  top: calc(50% - 119.57px);
+  right: 47.39px;
+  width: 670px;
+  height: 30px;
+  font-family: var(--font-raleway);
+}
+.footersection-div {
+  position: absolute;
+  bottom: 1px;
+  left: 0;
+  width: 1280px;
+  height: 337.33px;
+  font-size: var(--font-size-2xl);
+  color: var(--color-white);
+}
+.landingpage-div {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 4532px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-300);
+  font-family: var(--font-manrope);
+}

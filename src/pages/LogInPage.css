@@ -1,0 +1,147 @@
+.buttondefaultprimary1 {
+  width: calc(100% - 1155px);
+  position: absolute;
+  height: calc(100% - 59px);
+  top: 39px;
+  right: 43px;
+  bottom: 20px;
+  left: 1112px;
+  cursor: pointer;
+}
+.asterisk-b2 {
+  position: absolute;
+  top: calc(50% + 0.5px);
+  left: 76px;
+  font-size: var(--font-size-base);
+  display: inline-block;
+  font-family: var(--font-manrope);
+  color: var(--color-gray-300);
+  text-align: left;
+  cursor: pointer;
+}
+.about-us-div2 {
+  left: 0;
+  cursor: pointer;
+}
+.about-us-div2,
+.contact-us-div2,
+.pricing-div2 {
+  position: absolute;
+  top: 0;
+  font-size: var(--font-size-base);
+  font-family: var(--font-manrope);
+  color: var(--color-gray-300);
+  text-align: left;
+  display: inline-block;
+}
+.pricing-div2 {
+  left: calc(50% - 52px);
+}
+.contact-us-div2 {
+  right: -1px;
+  cursor: pointer;
+}
+.group-nav {
+  position: absolute;
+  top: calc(50% + 0.5px);
+  left: calc(50% - 261px);
+  width: 594px;
+  height: 35px;
+}
+.headersection-nav {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gray-300);
+  box-sizing: border-box;
+  width: 1280px;
+  height: 114px;
+}
+.services-background-icon2 {
+  position: absolute;
+  top: 78.35px;
+  left: 0;
+  width: 1280px;
+  height: 721.65px;
+}
+.service-card-background2 {
+  position: absolute;
+  top: 191.2px;
+  left: 312px;
+  background-color: var(--color-gray-100);
+  box-shadow: 4px 4px 12px rgba(0, 0, 0, 0.13);
+  width: 656px;
+  height: 534px;
+}
+.inputbase-formgroup6 {
+  width: calc(100% + 1.5px);
+  border: 0;
+  background-color: transparent;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: -1.5px;
+}
+.group-label-div6 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  left: 0;
+  line-height: 24px;
+  display: inline-block;
+  height: 24px;
+}
+.email-div1,
+.password-div1 {
+  position: absolute;
+  top: 439.17px;
+  left: 461px;
+  width: 370.5px;
+  height: 69px;
+}
+.email-div1 {
+  top: 327.35px;
+  left: 461.75px;
+  mix-blend-mode: normal;
+}
+.signinbtn-button {
+  width: 87px;
+  position: absolute;
+  top: 551px;
+  left: 461px;
+}
+.log-in-b {
+  position: absolute;
+  top: 240px;
+  left: 591px;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  color: var(--color-gray-300);
+}
+.sign-up-now {
+  text-decoration: underline;
+}
+.signuptext-a {
+  cursor: pointer;
+  text-decoration: none;
+  position: absolute;
+  bottom: 99.33px;
+  left: 518.25px;
+  font-size: var(--font-size-2xs);
+  line-height: 16px;
+  color: var(--color-indigo-100);
+  display: inline-block;
+  width: 370.5px;
+  height: 31px;
+}
+.loginpage-div {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 800px;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-gray-400);
+  font-family: var(--font-manrope);
+}
