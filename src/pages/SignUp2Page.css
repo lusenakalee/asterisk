@@ -1,0 +1,118 @@
+.buttondefaultprimary {
+  width: calc(100% - 1175px);
+  position: absolute;
+  height: calc(100% - 59px);
+  top: 39px;
+  right: 63px;
+  bottom: 20px;
+  left: 1112px;
+  cursor: pointer;
+}
+.about-us-div {
+  left: calc(50% - 261px);
+}
+.about-us-div,
+.asterisk-b,
+.contact-us-div,
+.pricing-div {
+  position: absolute;
+  top: calc(50% + 0.5px);
+  display: inline-block;
+}
+.asterisk-b {
+  left: 76px;
+  cursor: pointer;
+}
+.contact-us-div,
+.pricing-div {
+  left: calc(50% - 16px);
+}
+.contact-us-div {
+  left: calc(50% + 202px);
+  cursor: pointer;
+}
+.titlesection-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gray-300);
+  box-sizing: border-box;
+  width: 1280px;
+  height: 114px;
+  cursor: pointer;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-300);
+}
+.services-background-icon {
+  position: absolute;
+  top: 78.35px;
+  left: 0;
+  width: 1280px;
+  height: 721.65px;
+}
+.service-card-background {
+  position: absolute;
+  top: 191.2px;
+  left: 312px;
+  background-color: var(--color-gray-100);
+  box-shadow: 4px 4px 12px rgba(0, 0, 0, 0.13);
+  width: 656px;
+  height: 534px;
+}
+.inputbase-formgroup {
+  width: calc(100% + 1.5px);
+  border: 0;
+  background-color: transparent;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: -1.5px;
+}
+.group-label-div {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  left: 0;
+  line-height: 24px;
+  display: inline-block;
+  height: 24px;
+}
+.email-div,
+.password-div,
+.phonenumber-div,
+.repeatpassword-div {
+  position: absolute;
+  top: 222.35px;
+  left: 454.75px;
+  width: 370.5px;
+  height: 69px;
+}
+.password-div,
+.phonenumber-div,
+.repeatpassword-div {
+  top: 321.7px;
+}
+.password-div,
+.repeatpassword-div {
+  top: 421.04px;
+}
+.repeatpassword-div {
+  top: 520.39px;
+}
+.submitbtn-button {
+  width: 87px;
+  position: absolute;
+  top: 659px;
+  left: 597px;
+}
+.signup2page-div {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 800px;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-gray-400);
+  font-family: var(--font-manrope);
+}

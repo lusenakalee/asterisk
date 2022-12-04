@@ -1,0 +1,1012 @@
+.background-icon {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .hartford-way-vlg {
+    margin: 0;
+  }
+  .hartford-way-vlg-mount-pleasa {
+    position: absolute;
+    width: calc(100% + 1px);
+    top: 0;
+    left: 0;
+    display: inline-block;
+    height: 68px;
+  }
+  .div,
+  .helloagencycom-div {
+    position: absolute;
+    left: 0;
+    font-weight: 600;
+    display: inline-block;
+  }
+  .div {
+    top: calc(50% - 13px);
+    width: 166px;
+    height: 64px;
+  }
+  .helloagencycom-div {
+    bottom: 0;
+  }
+  .contact-info-div {
+    position: absolute;
+    top: calc(50% - 145px);
+    left: calc(50% - 466px);
+    width: 496px;
+    height: 206px;
+  }
+  .subscribe-to-our-newsletter {
+    position: absolute;
+    height: 100%;
+    width: calc(100% + 1px);
+    top: 0;
+    left: 0;
+    display: inline-block;
+  }
+  .group-div {
+    position: absolute;
+    width: calc(100% - 81.07px);
+    top: 0;
+    right: 81.07px;
+    left: 0;
+    height: 34.81px;
+  }
+  .email-div {
+    position: absolute;
+    top: calc(50% - 13px);
+    left: 35px;
+    display: inline-block;
+  }
+  .group-div1 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    border-radius: 19px;
+    background-color: var(--color-white);
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.15);
+    width: 509px;
+    height: 58px;
+    font-size: var(--font-size-sm);
+    color: rgba(112, 112, 112, 0.55);
+  }
+  .join-b {
+    position: absolute;
+    top: calc(50% - 11.5px);
+    left: calc(50% - 18.5px);
+    display: inline-block;
+  }
+  .group-div2 {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    width: 159px;
+    height: 57px;
+    font-size: var(--font-size-xs);
+  }
+  .newsletter-subscribe-div {
+    position: absolute;
+    top: calc(50% - 145.39px);
+    right: 156px;
+    width: 679px;
+    height: 95.39px;
+  }
+  .twitter-div {
+    right: 0;
+  }
+  .facebook-div,
+  .instagram-div,
+  .twitter-div {
+    position: absolute;
+    top: 0;
+    display: inline-block;
+  }
+  .instagram-div {
+    left: calc(50% - 52px);
+  }
+  .facebook-div {
+    left: 0;
+  }
+  .social-icons-div {
+    position: absolute;
+    top: calc(50% - 50px);
+    left: 144px;
+    width: 230px;
+    height: 51px;
+    font-size: var(--font-size-2xl);
+    font-family: var(--font-font-awesome-5-brands);
+  }
+  .agency-b {
+    position: absolute;
+    right: -1px;
+    bottom: 0.03px;
+    display: inline-block;
+  }
+  .rectangle-div {
+    position: absolute;
+    right: -24.14px;
+    bottom: 2.86px;
+    background-color: var(--color-turquoise);
+    width: 41.48px;
+    height: 25.67px;
+    transform: rotate(311deg);
+  }
+  .group-div3 {
+    position: absolute;
+    height: calc(100% - 27.3px);
+    top: 13.65px;
+    bottom: 13.65px;
+    left: 13.31px;
+    background-color: var(--color-teal);
+    width: 66.32px;
+    transform: rotate(320deg);
+  }
+  .agency-logo-div {
+    position: absolute;
+    top: 71px;
+    left: 121px;
+    width: 285.94px;
+    height: 92.85px;
+    font-size: 57px;
+  }
+  .careers-div {
+    position: absolute;
+    top: calc(50% - 15px);
+    left: calc(50% - 335px);
+    display: inline-block;
+  }
+  .services-div {
+    left: calc(50% + 71px);
+  }
+  .portfolio-div,
+  .quote-estimate-div,
+  .services-div {
+    position: absolute;
+    top: calc(50% - 15px);
+    display: inline-block;
+  }
+  .portfolio-div {
+    right: -1px;
+  }
+  .quote-estimate-div {
+    left: calc(50% - 177px);
+  }
+  .footer-nav-div {
+    position: absolute;
+    top: calc(50% + 31px);
+    right: 165px;
+    width: 670px;
+    height: 30px;
+  }
+  .designed-by-we3solutionsca {
+    position: absolute;
+    bottom: 29px;
+    left: calc(50% - 218px);
+    display: inline-block;
+  }
+  .footer-div {
+    position: absolute;
+    bottom: -8px;
+    left: 0;
+    width: 1920px;
+    height: 506px;
+    color: var(--color-white);
+  }
+  .mail-24px-icon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 36.97px;
+    height: 36.97px;
+  }
+  .email-us-div,
+  .helloagencycom-div1 {
+    position: absolute;
+    display: inline-block;
+  }
+  .email-us-div {
+    top: 4px;
+    left: calc(50% - 77px);
+    font-weight: 500;
+  }
+  .helloagencycom-div1 {
+    right: -1px;
+    bottom: 0;
+    font-size: var(--font-size-base);
+  }
+  .email-div1 {
+    position: absolute;
+    top: calc(50% + 242.77px);
+    left: 7px;
+    width: 284px;
+    height: 89px;
+  }
+  .call-for-queries,
+  .div1 {
+    position: absolute;
+    display: inline-block;
+  }
+  .call-for-queries {
+    top: 0;
+    right: -1px;
+    font-weight: 500;
+  }
+  .div1 {
+    bottom: 0;
+    left: calc(50% - 70.5px);
+    font-size: var(--font-size-base);
+  }
+  .smartphone-call-icon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 27.49px;
+    height: 47.33px;
+  }
+  .call-div {
+    position: absolute;
+    top: calc(50% + 92.77px);
+    left: 15px;
+    width: 267px;
+    height: 108px;
+  }
+  .address-div1 {
+    position: absolute;
+    top: 6px;
+    left: calc(50% - 179px);
+    font-weight: 500;
+    display: inline-block;
+  }
+  .hartford-way-vlg-mount-pleasa1 {
+    position: absolute;
+    width: calc(100% - 77px);
+    bottom: 0;
+    left: 78px;
+    font-size: var(--font-size-base);
+    display: inline-block;
+    height: 102px;
+  }
+  .location-on-24px-icon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 58px;
+    height: 58px;
+  }
+  .address-div {
+    position: absolute;
+    top: calc(50% - 105.23px);
+    left: 0;
+    width: 514px;
+    height: 163px;
+  }
+  .contact-form-background {
+    position: absolute;
+    height: calc(100% - 260.09px);
+    width: calc(100% - 268.53px);
+    top: 0;
+    right: 268.53px;
+    bottom: 260.09px;
+    left: 0;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .say-hi-div {
+    top: 0;
+    left: 25px;
+    font-weight: 500;
+    display: inline-block;
+  }
+  .button,
+  .say-hi-div,
+  .submit {
+    position: absolute;
+  }
+  .submit {
+    top: calc(50% - 15.38px);
+    left: calc(50% - 44.28px);
+    font-size: var(--font-size-lg);
+    display: inline-block;
+    font-family: var(--font-raleway);
+    color: var(--color-white);
+    text-align: left;
+  }
+  .button {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: transparent;
+    bottom: 0;
+    left: 0;
+    width: 208.56px;
+    height: 74.77px;
+  }
+  .message-text-field {
+    top: calc(50% - 88.88px);
+    height: 305px;
+  }
+  .email-text-field,
+  .group-input,
+  .message-text-field {
+    border: 0;
+    background-color: transparent;
+    position: absolute;
+    width: 100%;
+    right: 0;
+    left: 0;
+  }
+  .email-text-field {
+    top: calc(50% - 172.88px);
+    height: 69px;
+  }
+  .group-input {
+    height: 100%;
+    top: 0;
+    bottom: 0;
+  }
+  .full-name-div {
+    position: absolute;
+    top: calc(50% - 17.5px);
+    left: 28px;
+    display: inline-block;
+  }
+  .name-text-field {
+    position: absolute;
+    width: 100%;
+    top: 65px;
+    right: 0;
+    left: 0;
+    height: 69px;
+    font-size: var(--font-size-base);
+    color: var(--color-black);
+  }
+  .contact-form-div {
+    position: absolute;
+    top: calc(50% - 274.23px);
+    left: calc(50% - 392.36px);
+    width: 750px;
+    height: 643.77px;
+  }
+  .form-div {
+    position: absolute;
+    height: 100%;
+    width: calc(100% - 433.42px);
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 433.42px;
+    color: var(--color-white);
+  }
+  .contact-us-b {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 316.5px);
+    line-height: 49px;
+    text-transform: capitalize;
+    display: inline-block;
+  }
+  .have-a-project-we-can-help-wit {
+    position: absolute;
+    width: calc(100% + 1px);
+    bottom: 0;
+    left: 0;
+    font-size: var(--font-size-base);
+    line-height: 37px;
+    display: inline-block;
+    height: 73px;
+  }
+  .section-heading-div {
+    position: absolute;
+    top: calc(50% - 443.23px);
+    left: 0;
+    width: 633px;
+    height: 162px;
+    font-size: var(--font-size-3xl);
+  }
+  .contact-div {
+    position: absolute;
+    bottom: 673.47px;
+    left: 55.36px;
+    width: 1809.29px;
+    height: 1386.6px;
+    font-size: var(--font-size-xl);
+  }
+  .background-div {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: var(--color-turquoise);
+    opacity: 0.05;
+  }
+  .subscribe-to-our-newsletter1 {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 341.5px);
+    line-height: 49px;
+    text-transform: capitalize;
+    display: inline-block;
+  }
+  .sign-up-for-our-newsletter-to {
+    position: absolute;
+    width: calc(100% + 1px);
+    bottom: 0;
+    left: 0;
+    font-size: var(--font-size-base);
+    text-align: center;
+    display: inline-block;
+    height: 73px;
+  }
+  .heading-and-text {
+    position: absolute;
+    width: calc(100% - 42.41px);
+    top: 0;
+    right: 20.41px;
+    left: 22px;
+    height: 162px;
+  }
+  .group-div5 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: 22px;
+    background-color: var(--color-white);
+    border: 1px solid #707070;
+    box-sizing: border-box;
+  }
+  .email-div2 {
+    position: absolute;
+    top: calc(50% - 15.5px);
+    left: 36px;
+    display: inline-block;
+  }
+  .group-icon2,
+  .text-field-div {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  .text-field-div {
+    height: calc(100% - 2.85px);
+    width: calc(100% - 3.41px);
+    right: 3.41px;
+    bottom: 2.85px;
+  }
+  .group-icon2 {
+    height: 100%;
+    width: 100%;
+    right: 0;
+    bottom: 0;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .join-b1 {
+    position: absolute;
+    top: calc(50% - 14.92px);
+    left: calc(50% - 30.21px);
+    font-size: var(--font-size-lg);
+    display: inline-block;
+    font-family: var(--font-raleway);
+    color: var(--color-white);
+    text-align: left;
+  }
+  .button1,
+  .cta-div {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+  }
+  .button1 {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: transparent;
+    height: 100%;
+    top: 0;
+    width: 200.41px;
+  }
+  .cta-div {
+    width: 100%;
+    left: 0;
+    height: 71.85px;
+    font-size: var(--font-size-base);
+  }
+  .content-div {
+    position: absolute;
+    top: calc(50% - 119.5px);
+    left: calc(50% - 377px);
+    width: 753.41px;
+    height: 272.85px;
+  }
+  .newsletter-div {
+    position: absolute;
+    top: 3402px;
+    left: 0;
+    width: 1920px;
+    height: 599px;
+    font-size: var(--font-size-3xl);
+    color: var(--color-black);
+  }
+  .nunc-eu-augue-at-nunc-consecte {
+    position: absolute;
+    width: calc(100% - 23px);
+    top: 66px;
+    left: 0;
+    line-height: 37px;
+    display: inline-block;
+    height: 87px;
+  }
+  .sed-ut-perspiciatis-unde-omnis {
+    position: absolute;
+    width: calc(100% + 1px);
+    bottom: 0;
+    left: 0;
+    line-height: 37px;
+    display: inline-block;
+    height: 287px;
+  }
+  .reasons-for-choosing-us {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-size: 35px;
+    line-height: 40px;
+    font-weight: 600;
+    text-align: center;
+    display: inline-block;
+  }
+  .about-us-text {
+    position: absolute;
+    right: 0;
+    bottom: 130.54px;
+    width: 812px;
+    height: 456px;
+  }
+  .about-us-illustration {
+    position: absolute;
+    bottom: -13.67px;
+    left: 0;
+    width: 556.79px;
+    height: 687.21px;
+  }
+  .about-us {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 109.5px);
+    line-height: 49px;
+    text-transform: capitalize;
+    display: inline-block;
+  }
+  .learn-how-we-helped-our-severa {
+    position: absolute;
+    width: calc(100% + 1px);
+    bottom: 0;
+    left: 0;
+    font-size: var(--font-size-base);
+    line-height: 37px;
+    text-align: center;
+    display: inline-block;
+    height: 73px;
+  }
+  .section-heading-div2 {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 297px);
+    width: 633px;
+    height: 162px;
+    font-size: var(--font-size-3xl);
+  }
+  .about-us-div {
+    position: absolute;
+    top: 2309px;
+    left: 173px;
+    width: 1536px;
+    height: 917.54px;
+  }
+  .our-services-b {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 150.5px);
+    line-height: 49px;
+    text-transform: capitalize;
+    display: inline-block;
+  }
+  .section-heading-div3 {
+    position: absolute;
+    top: 77.88px;
+    left: calc(50% - 313.07px);
+    width: 633px;
+    height: 162px;
+  }
+  .voip-and-normal-calls {
+    position: absolute;
+    top: 50px;
+    left: calc(50% - 153px);
+    font-weight: 600;
+    display: inline-block;
+  }
+  .make-a-receive-voip-and-normal {
+    position: absolute;
+    width: calc(100% - 63px);
+    bottom: 43px;
+    left: 32px;
+    font-size: var(--font-size-sm);
+    color: var(--color-black);
+    display: inline-block;
+    height: 108px;
+  }
+  .service-card-group {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: var(--br-md);
+    background-color: var(--color-white);
+    box-shadow: 4px 4px 12px rgba(0, 0, 0, 0.13);
+  }
+  .service-card-image {
+    position: absolute;
+    top: calc(50% - 175.09px);
+    left: calc(50% - 117px);
+    width: 233.77px;
+    height: 276.35px;
+  }
+  .service-card-div {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+  }
+  .div2 {
+    position: absolute;
+    height: calc(100% - 18px);
+    top: 6px;
+    bottom: 12px;
+    left: 9px;
+    width: 388px;
+    color: var(--color-gray-200);
+  }
+  .switchboard-div {
+    position: absolute;
+    top: 50px;
+    left: calc(50% - 86px);
+    font-weight: 600;
+    display: inline-block;
+  }
+  .switchboard-so-users-that-can {
+    position: absolute;
+    width: calc(100% - 63px);
+    bottom: 43px;
+    left: 32px;
+    font-size: var(--font-size-sm);
+    display: inline-block;
+    height: 108px;
+  }
+  .icon-awesome-facebook {
+    position: absolute;
+    top: calc(50% - 116px);
+    left: calc(50% - 97px);
+    width: 34.88px;
+    height: 34.66px;
+  }
+  .icon-awesome-twitter {
+    position: absolute;
+    top: calc(50% - 40.59px);
+    left: calc(50% - 95px);
+    width: 31.19px;
+    height: 25.33px;
+  }
+  .icon-awesome-instagram {
+    position: absolute;
+    top: calc(50% + 5.5px);
+    left: calc(50% + 80.03px);
+    width: 26.48px;
+    height: 26.48px;
+  }
+  .icon-awesome-linkedin-in {
+    position: absolute;
+    top: calc(50% - 81.52px);
+    left: calc(50% + 84.24px);
+    width: 33.97px;
+    height: 33.97px;
+  }
+  .group-icon3 {
+    position: absolute;
+    top: 99.51px;
+    right: 10.36px;
+    width: 329.64px;
+    height: 335.13px;
+  }
+  .div3 {
+    position: absolute;
+    height: calc(100% - 18px);
+    top: 6px;
+    bottom: 12px;
+    left: calc(50% - 399.58px);
+    width: 388px;
+  }
+  .database-div {
+    position: absolute;
+    top: 50px;
+    left: calc(50% - 64px);
+    font-weight: 600;
+    display: inline-block;
+  }
+  .group-icon4,
+  .icon-awesome-linkedin-in1 {
+    position: absolute;
+    top: calc(50% - 81.52px);
+    left: calc(50% + 84.23px);
+    width: 33.97px;
+    height: 33.97px;
+  }
+  .group-icon4 {
+    top: calc(50% - 147.87px);
+    left: calc(50% - 118px);
+    width: 237.41px;
+    height: 246.9px;
+  }
+  .div4 {
+    position: absolute;
+    height: calc(100% - 18px);
+    top: 6px;
+    bottom: 12px;
+    left: calc(50% + 9.42px);
+    width: 388px;
+  }
+  .surveys-div {
+    position: absolute;
+    top: 50px;
+    left: calc(50% - 52px);
+    font-weight: 600;
+    display: inline-block;
+  }
+  .group-icon5 {
+    position: absolute;
+    width: calc(100% - 65.94px);
+    top: calc(50% - 192.49px);
+    right: 23.94px;
+    left: 42px;
+    max-width: 100%;
+    overflow: hidden;
+    height: 327.41px;
+  }
+  .div5 {
+    position: absolute;
+    height: calc(100% - 18px);
+    top: 6px;
+    right: 11.16px;
+    bottom: 12px;
+    width: 388px;
+  }
+  .services-grid-div {
+    position: absolute;
+    width: calc(100% - 284.97px);
+    right: 133.63px;
+    bottom: 107.68px;
+    left: 151.34px;
+    height: 612px;
+    text-align: center;
+    font-size: var(--font-size-xl);
+    color: var(--color-black);
+  }
+  .our-services-div {
+    position: absolute;
+    top: 1051.2px;
+    left: 0;
+    width: 1920.13px;
+    height: 1082.55px;
+    font-size: var(--font-size-3xl);
+  }
+  .building-strong-relationships1 {
+    font-family: var(--font-raleway);
+  }
+  .b {
+    color: var(--color-teal);
+  }
+  .building-strong-relationships {
+    position: absolute;
+    top: calc(50% - 231.42px);
+    left: 0;
+    display: inline-block;
+    width: 819px;
+    height: 319px;
+  }
+  .a-full-range-of-communication {
+    position: absolute;
+    bottom: 90.77px;
+    left: 0;
+    font-size: var(--font-size-base);
+    line-height: 37px;
+    font-family: var(--font-raleway);
+    display: inline-block;
+    width: 681px;
+    height: 128px;
+  }
+  .illustration-icon {
+    position: absolute;
+    height: calc(100% + 3.97px);
+    top: 0;
+    right: -3.34px;
+    bottom: -3.97px;
+    max-height: 100%;
+    width: 765.35px;
+  }
+  .get-started-b {
+    position: absolute;
+    top: calc(50% - 15.38px);
+    left: calc(50% - 85.28px);
+    font-size: var(--font-size-lg);
+    display: inline-block;
+    font-family: var(--font-raleway);
+    color: var(--color-white);
+    text-align: left;
+  }
+  .home-section-div {
+    position: absolute;
+    top: 245.29px;
+    left: 200px;
+    width: 1580px;
+    height: 692.25px;
+    font-size: 75px;
+    font-family: var(--font-manrope);
+  }
+  .rectangle-div1 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: var(--color-white);
+  }
+  .asterisk-b {
+    position: absolute;
+    top: 6.03px;
+    right: -1px;
+    display: inline-block;
+  }
+  .rectangle-div2 {
+    position: absolute;
+    right: -13.18px;
+    bottom: 1.56px;
+    background-color: var(--color-turquoise);
+    width: 22.64px;
+    height: 14.01px;
+    transform: rotate(311deg);
+  }
+  .group-div10 {
+    position: absolute;
+    height: calc(100% - 14.9px);
+    top: 7.45px;
+    bottom: 7.45px;
+    left: 7.27px;
+    background-color: var(--color-teal);
+    width: 36.2px;
+    transform: rotate(320deg);
+  }
+  .logo-div {
+    position: absolute;
+    height: calc(100% - 6.32px);
+    top: 3.97px;
+    bottom: 2.35px;
+    left: 0;
+    width: 163.91px;
+  }
+  .about-us1,
+  .contact-div1,
+  .pricing-div {
+    position: absolute;
+    top: calc(50% - 15px);
+    display: inline-block;
+  }
+  .pricing-div {
+    left: calc(50% - 40.5px);
+    cursor: pointer;
+  }
+  .about-us1,
+  .contact-div1 {
+    left: calc(50% + 144.5px);
+  }
+  .about-us1 {
+    text-decoration: none;
+    left: calc(50% - 235.5px);
+    color: inherit;
+  }
+  .header-menu-div {
+    position: absolute;
+    top: calc(50% - 14.5px);
+    left: calc(50% + 47.95px);
+    width: 471px;
+    height: 30px;
+    font-size: var(--font-size-base);
+    color: var(--color-gray-100);
+  }
+  .log-in-b {
+    position: absolute;
+    top: 0;
+    right: -1px;
+    font-size: var(--font-size-xs);
+    display: inline-block;
+    font-family: var(--font-raleway);
+    color: var(--color-white);
+    text-align: left;
+  }
+  .icon-awesome-arrow-right {
+    position: absolute;
+    height: calc(100% - 4.48px);
+    top: 2.18px;
+    bottom: 2.29px;
+    left: 0;
+    max-height: 100%;
+    width: 20.03px;
+  }
+  .group-div11 {
+    position: absolute;
+    top: calc(50% - 11.5px);
+    left: calc(50% - 69px);
+    width: 98.4px;
+    height: 24px;
+  }
+  .header-cta-button {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: transparent;
+    position: absolute;
+    height: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    width: 224px;
+  }
+  .group-div9 {
+    position: absolute;
+    width: calc(100% - 285.09px);
+    top: calc(50% - 29.5px);
+    right: 156px;
+    left: 129.09px;
+    height: 57px;
+  }
+  .header-div {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1919px;
+    height: 145px;
+    font-size: 32px;
+  }
+  .agency-landing-page-div {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 6180px;
+    text-align: left;
+    font-size: var(--font-size-base);
+    color: var(--color-gray-200);
+    font-family: var(--font-raleway);
+  }
+  
