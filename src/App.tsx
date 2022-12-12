@@ -13,7 +13,7 @@ import { IonReactRouter } from '@ionic/react-router';
 import { ellipse, square, triangle } from 'ionicons/icons';
 import Tab1 from './pages/Tab1';
 import Tab2 from './pages/Tab2';
-import Tab3 from './pages/Tab3';
+
 
 /* Core CSS required for Ionic components to work properly */
 import '@ionic/react/css/core.css';
@@ -37,7 +37,11 @@ import './theme/variables.css';
 import LogInPage from './pages/LogInPage';
 import SignUp1Page from './pages/SignUp1Page';
 import SignUp2Page from './pages/SignUp2Page';
+
 import { Button } from 'react-bootstrap';
+import CallPopUp from './pages/CallPopUp';
+import Dashboard from './pages/Dashboard';
+
 
 
 setupIonicReact();
@@ -56,6 +60,10 @@ const App: React.FC = () => (
       <Route path="/login" element={<LogInPage/>}/>
       <Route path="/register" element={<SignUp1Page/>}/>
       <Route path="/signUp" element={<SignUp2Page/>}/>
+      <Route path="/Dashboard" element={<Dashboard/>}/>
+      <Route path="/CallPopUp" element={<CallPopUp/>}/>
+      
+      
     </Routes>
     </>
      

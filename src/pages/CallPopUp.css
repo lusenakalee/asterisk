@@ -1,0 +1,50 @@
+.main-content{
+    flex: 1;
+}
+.actions{
+    display: flex;
+    padding-top: 50px;
+}
+.callIconsRow{
+    
+    display: flex;
+}
+.iconHoverText{
+    position: absolute;
+    left: 50%;
+    top: 0;
+    transform: translateX(-50%);
+    background-color: #000;
+    color: #fff;
+    white-space: nowrap;
+    padding: 10px 15px;
+    border-radius: 7px;
+    
+}
+
+.callIconsColumn{
+    margin-left: 0;
+    width: 600px;
+}
+.callIcons{
+    height: 30px;
+    
+    padding-right: 150px;
+    
+}
+
+.callInfo{
+    padding-top: 20px;
+    align-items: left;
+   
+}
+.callPopUpListCard{
+    width: 20px;
+    padding-left: 0px;
+}
+.callPopUpList{  
+    width: 620px;
+    margin-left: 0;
+    
+
+}

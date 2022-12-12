@@ -23,6 +23,12 @@ const SignUp2Page: FunctionComponent = () => {
     navigate("/loginpage");
   }, [navigate]);
 
+  const onButtonSubmitClick = useCallback(() => {
+    navigate("/login");
+  }, [navigate]);
+
+  
+
   return (
     <div className="signup2page-div">
       <div className="titlesection-div" onClick={onTitleSectionContainerClick}>
@@ -72,7 +78,7 @@ const SignUp2Page: FunctionComponent = () => {
         </Form.Group>
         <div className="group-label-div">Repeat Password</div>
       </div>
-      <Button className="submitbtn-button" variant="primary">
+      <Button className="submitbtn-button" variant="primary" onClick={onButtonSubmitClick}>
         Submit
       </Button>
     </div>

@@ -1,0 +1,35 @@
+*{
+    font-family: manrope;
+    color: #0B2257;
+}
+.Sidebar{
+    height: 1080px;
+}
+.AvatarRow{
+    padding-right: 0;
+    align-items: flex-end;
+}
+.topRow{
+    padding-bottom: 69px;
+    padding-top: 69px;
+}
+.topRowColumns{
+    justify-content: left;
+   
+}
+.RecentTitle{
+    
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.RecentTitle.h4{
+    justify-content: left;
+
+}
+.ListTitle{
+    background-color: whitesmoke;
+    
+}
+.recentCalls{
+    flex: auto;
+}

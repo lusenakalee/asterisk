@@ -6,6 +6,7 @@ import "./Tab1.css";
 import { IonContent, IonPage } from "@ionic/react";
 import LogInPage from "./LogInPage";
 
+
 const Tab1: FunctionComponent = () => {
   const navigate = useNavigate();
 

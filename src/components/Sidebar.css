@@ -1,0 +1,8 @@
+.MenuButtonsColumn{
+  display: flex;
+  flex-direction: column;
+}
+.MenuButtons{
+   padding-bottom: 10px;
+   
+}
